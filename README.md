@@ -547,7 +547,7 @@ This project is licensed under the **MIT License**.
 
 - 🎓 **Education**: Computer Engineering Student, NUST CEME (Batch DE-45, 2023-2027)
 - 💼 **GitHub**: [@abu-bakarchaudhary](https://github.com/abu-bakarchaudhary)
-- 💼 **LinkedIn**: [AbuBakar Chaudhary](https://linkedin.com/in/abubakar-chaudhary)
+- 💼 **LinkedIn**: [AbuBakar Chaudhary](https://linkedin.com/in/abubakar-chaudhary-ce45)
 - 🌐 **Portfolio**: [abu-bakarchaudhary.github.io/my-portfolio](https://abu-bakarchaudhary.github.io/my-portfolio)
 - 📧 **Email**: abubakar.chaudhary@example.com
 - 🏫 **Institution**: National University of Sciences and Technology (NUST), Pakistan
@@ -585,7 +585,6 @@ This project is licensed under the **MIT License**.
 - **National University of Sciences and Technology (NUST)**
 - **College of Electrical and Mechanical Engineering (CEME)**
 - Course: Digital Image Processing (6th Semester)
-- Instructor: [Instructor Name]
 
 ### Special Thanks:
 - NUST CEME faculty for academic guidance
